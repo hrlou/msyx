@@ -1,0 +1,10 @@
+{
+    "rust-analyzer.linkedProjects": [
+        ".\\msyx_server\\Cargo.toml",
+        ".\\msyx_server\\Cargo.toml",
+        ".\\msyx_server\\Cargo.toml",
+        ".\\msyx_server\\Cargo.toml",
+        ".\\msyx_server\\Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
